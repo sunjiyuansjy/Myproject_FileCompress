@@ -1,0 +1,2 @@
+# myproject_FileCompress
+基于haffman编码的文件压缩软件
