@@ -3,8 +3,10 @@
 
 int main()
 {
+	char* pstr = "ÄãºÃ";
 	FileCompress fc;
-	fc.CompressFile("1.txt");
+	fc.CompressFile("add.c");
+	fc.UNCompressFile("add.hzp");
 	system("pause");
 	return 0;
 }
